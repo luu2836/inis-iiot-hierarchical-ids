@@ -118,14 +118,7 @@ Figures are written to the `outputs/` directory.
 
 ## Citation
 
-```
-@article{li2026hierarchical,
-  title  = {A Leakage-Aware Study of Hierarchical Divide-and-Conquer for
-            Class-Imbalanced Industrial IoT Intrusion Detection},
-  author = {Li, Yiyan},
-  year   = {2026}
-}
-```
+Citation details are omitted in this anonymized version for double-blind review.
 
 ## License
 
